@@ -1,0 +1,3 @@
+function sliderImage() {
+	var image;
+}
